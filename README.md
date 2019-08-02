@@ -1,6 +1,6 @@
 A timed solution (60mins) to this exercise -
 
-![ss](https://github.com/wemsteral/binaryTree/blob/master/ss.png)
+![ss](https://github.com/wemsteral/binaryTreeKata/blob/master/ss.png)
 
 My approach:
 
